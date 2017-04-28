@@ -1,8 +1,8 @@
 # logD<sub>7.4</sub> of 1,130 Compounds
 
-This repository archives a high-quality human-curated [dataset](logd74.tsv) that includes the chemical structure (SMILES) of 1,130 organic compounds and their _n_-octanol/buffer solution distribution coefficients at pH 7.4 (logD<sub>7.4</sub>).
+This repository archives a high-quality human-curated [lipophilicity dataset](logd74.tsv) that includes the chemical structure (SMILES) of 1,130 organic compounds and their _n_-octanol/buffer solution distribution coefficients at pH 7.4 (logD<sub>7.4</sub>), originally curated by [our paper](http://onlinelibrary.wiley.com/doi/10.1002/cem.2718/full)> ([PDF](https://nanx.me/papers/logd.pdf)).
 
-This dataset can be used for method benchmarking in cheminformatics and chemometrics research. It was originally curated by the paper '_In silico_ evaluation of logD<sub>7.4</sub> and comparison with other prediction methods' <[DOI:10.1002/cem.2718](http://onlinelibrary.wiley.com/doi/10.1002/cem.2718/full)> ([PDF](https://nanx.me/papers/logd.pdf)).
+As a key determinant of several ADME properties, lipophilicity (logD<sub>7.4</sub>) is a key physical property in the development of small molecule oral drugs. This dataset can be applied for method benchmarking in cheminformatics and chemometrics research.
 
 ## Paper Citation
 
